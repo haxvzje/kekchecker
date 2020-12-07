@@ -1,3 +1,5 @@
 Spacial Thanks To
 
 minh#0810, for helping me finish this checker !
+
+Color: cyan
