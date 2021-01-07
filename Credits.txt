@@ -1,4 +1,3 @@
-Spacial Thanks To
-minh#0810, for helping me finish this checker !
+minh#0810 - helping me finish this checker !
 
 Color: cyan
