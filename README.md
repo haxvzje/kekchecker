@@ -1,1 +1,8 @@
 # kekchecker
+
+
+
+
+
+
+goodbye my friend
